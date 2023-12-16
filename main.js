@@ -13,7 +13,7 @@ let lastTimestamp;
 let score = 0;
 
 // Configuration
-const cellSize = 40;
+const cellSize = 32;
 const boardWidth = 10;
 const boardHeight = 16;
 const canvasWidth = cellSize * boardWidth;
